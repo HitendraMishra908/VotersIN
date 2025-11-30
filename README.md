@@ -1,5 +1,3 @@
-[github.com/HitendraMishra908](https://github.com/HitendraMishra908)
-
 VotersIN – MERN Stack Secure Voting Platform
 
 VotersIN is a full-stack voting application built using the MERN stack.
